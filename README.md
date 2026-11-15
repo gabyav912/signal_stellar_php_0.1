@@ -34,3 +34,7 @@ blog
 
 tareas
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6fef8750-9b20-4f7c-84b2-968d88e3712e" />
+el uso de los require
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2523e584-271d-4208-9d5b-4d1a2118eeca" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/94588239-180c-4370-a36c-29cdb2ac0fd4" />
+esto tiene estructurada de manera modular osea cada vista se independiza en su propio archivo PHP, usando la localStorage para compartir estados como la música y los ajustes. Además, mantengo un estricto orden en el nombramiento de los archivos usando guiones bajos, evitando espacios y mayúsculas para prevenir errores de sensibilidad a mayúsculas/minúsculas en el servidor local de Linux
