@@ -45,3 +45,13 @@ deteccion de errores
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/162560db-c235-4b78-8f94-89a1a719ff55" />
 corregidos
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5d34797e-5442-446e-90c3-c6eb89bec3a2" />
+________________________________________________________________________________________________________________________
+tp6
+_______________________________________________________________________________________________________________________
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/92a70378-83b4-451a-96cf-895969f68d10" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/efca3ebf-56f5-4b94-910f-bbf122ac139b" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/75b3701f-b8fa-46f0-b519-4bdbae0e1806" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/61e4c742-e04c-48ac-9214-9f3a3e003e77" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8fe0b24e-e020-47d1-a147-c59df724ad92" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9490e3aa-aeb5-4955-9256-29b221a93124" />
+
