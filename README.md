@@ -38,3 +38,10 @@ el uso de los require
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2523e584-271d-4208-9d5b-4d1a2118eeca" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/94588239-180c-4370-a36c-29cdb2ac0fd4" />
 esto tiene estructurada de manera modular osea cada vista se independiza en su propio archivo PHP, usando la localStorage para compartir estados como la música y los ajustes. Además, mantengo un estricto orden en el nombramiento de los archivos usando guiones bajos, evitando espacios y mayúsculas para prevenir errores de sensibilidad a mayúsculas/minúsculas en el servidor local de Linux
+____________________________________________________________________________________________________________________________
+parte de clase 5
+_____________________________________________________________________________________________________________________________
+deteccion de errores
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/162560db-c235-4b78-8f94-89a1a719ff55" />
+corregidos
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5d34797e-5442-446e-90c3-c6eb89bec3a2" />
